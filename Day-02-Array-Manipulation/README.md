@@ -5,7 +5,7 @@
 1. Move Zeroes
 2. Remove Duplicates from Sorted Array
 3. Merge Sorted Array
-4. Left Rotation
+4. Running Sum of 1D Array
 
 ## Approach
 
