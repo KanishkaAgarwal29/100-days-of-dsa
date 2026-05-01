@@ -3,15 +3,16 @@
 ## Problems Solved
 
 1. Left Rotation
-2. Right Rotation by K
-3. Rotate Array
-4. Check if Array is Sorted and Rotated
+2. Rotate Array
+3. Check if Array is Sorted and Rotated
+4. Cyclic Rotation by One
 
 ## Approach
 
-* Practiced rotating arrays using different techniques
-* Used reversal method for efficient in-place rotation
-* Applied modular arithmetic to handle large rotations
+* Practiced different variations of array rotation
+* Used reversal technique for efficient in-place rotation
+* Applied basic shifting logic for single-step rotation
+* Focused on optimizing time and space complexity
 
 ## Time Complexity
 
@@ -19,4 +20,4 @@
 
 ## Key Learning
 
-Array rotation problems can be optimized using reversal techniques instead of shifting elements repeatedly, improving overall efficiency.
+Array rotation problems can be solved efficiently using reversal techniques instead of repeated shifting. Understanding these patterns helps in solving transformation-based problems.
