@@ -1,18 +1,18 @@
 # Day 7 – Array Rearrangement
 
 ## Problems Solved
-1. Rearrange Array Elements by Sign  
-2. Move All Negative Numbers to Beginning  
-3. Sort Array By Parity  
-4. Leaders in an Array  
+1. Segregate 0s and 1s  
+2. Sort Array By Parity  
+3. Wave Array  
+4. Rearrange Array Elements by Sign  
 
 ## Approach
-- Used partitioning and swapping techniques  
-- Focused on rearranging elements based on conditions  
-- Applied in-place operations to optimize space  
+- Used two-pointer technique for rearranging elements  
+- Applied swapping and index-based placement  
+- Focused on in-place modification of arrays  
 
 ## Time Complexity
-- O(n)
+- Most solutions run in O(n)
 
 ## Key Learning
-Rearrangement problems help build strong understanding of how to modify array structure efficiently.
+Learned how to rearrange array elements efficiently using simple traversal and two-pointer techniques without using extra space.
