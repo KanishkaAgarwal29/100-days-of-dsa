@@ -1,23 +1,25 @@
 # 100 Days of DSA 🚀
 
-This repository contains my solutions for the #100DaysOfCode DSA challenge.
+Hi! 👋  
+Welcome to my 100 Days of DSA journey.
 
-The goal of this challenge is to:
-- Build strong problem-solving skills
-- Improve DSA fundamentals
-- Maintain consistency through daily practice
-- Document progress publicly using GitHub and LinkedIn
+This repository contains the problems I solve daily as part of my #100DaysOfCode challenge. I’m using this challenge to improve problem-solving skills, strengthen DSA fundamentals, and stay consistent with daily practice.
 
 ---
 
-## 📚 Platforms Used
+## 💻 Platforms Used
 - LeetCode
 - GeeksforGeeks
 - HackerRank
 
 ---
 
-## 📚 Topics Covered
+## 🛠️ Language Used
+- Java
+
+---
+
+## 📚 Topics Covered So Far
 - Arrays
 - Prefix Sum
 - Kadane’s Algorithm
@@ -28,15 +30,10 @@ The goal of this challenge is to:
 
 ---
 
-## 💻 Language Used
-- Java
-
----
-
 ## 📂 Repository Structure
 
 Each folder represents one day of the challenge and contains:
-- Problem solutions
+- Java solutions
 - README with approaches and learnings
 
 Example:
