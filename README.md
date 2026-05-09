@@ -10,6 +10,13 @@ The goal of this challenge is to:
 
 ---
 
+## 📚 Platforms Used
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+
+---
+
 ## 📚 Topics Covered
 - Arrays
 - Prefix Sum
