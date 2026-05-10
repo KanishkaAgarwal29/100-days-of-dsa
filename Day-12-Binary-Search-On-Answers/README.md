@@ -4,15 +4,15 @@
 1. Square Root(x)  
 2. Valid Perfect Square  
 3. Arranging Coins  
-4. First Bad Version  
+4. Koko Eating Bananas  
 
 ## Approach
 - Applied binary search on possible answer ranges  
-- Used monotonic conditions to reduce search space efficiently  
-- Focused on boundary handling and feasibility checking  
+- Used feasibility checking to decide search direction  
+- Focused on monotonic conditions and boundary handling  
 
 ## Time Complexity
 - Most solutions run in O(log n)
 
 ## Key Learning
-Binary Search can also be applied on answer spaces when a problem follows a monotonic pattern instead of direct searching on arrays.
+Binary Search can be applied on answer spaces when a problem follows a monotonic pattern, allowing efficient optimization without checking every possible value.
