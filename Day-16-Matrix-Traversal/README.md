@@ -1,18 +1,18 @@
-# Day 16 – Matrix Traversal
+# Day 16 – Matrix Operations
 
 ## Problems Solved
-1. Spiral Matrix  
-2. Spiral Matrix II  
-3. Diagonal Traverse  
-4. Toeplitz Matrix  
+1. Count Negative Numbers in a Sorted Matrix  
+2. Cells with Odd Values in a Matrix  
+3. Flipping an Image  
+4. Check if Matrix Is X-Matrix  
 
 ## Approach
-- Practiced boundary-based and directional matrix traversal  
-- Applied row, column, and diagonal movement techniques  
-- Focused on matrix pattern observation and traversal control  
+- Practiced matrix traversal and row-column operations  
+- Applied indexing and observation-based techniques  
+- Focused on improving comfort with 2D arrays and matrix manipulation  
 
 ## Time Complexity
 - Most solutions run in O(m × n)
 
 ## Key Learning
-Matrix traversal problems require careful handling of boundaries, directions, and movement patterns to avoid revisiting elements.
+Matrix problems require careful handling of rows, columns, and indexing while performing efficient traversal and transformations.
