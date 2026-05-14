@@ -7,14 +7,12 @@ class Solution {
             r[indices[i][0]]++;
             c[indices[i][1]]++;
         }
-
         int oddRows = 0;
         for (int i = 0; i < m; i++) {
             if (r[i] % 2 == 1) {
                 oddRows++;
             }
         }
-
         int oddColumns = 0;
         for (int i = 0; i < n; i++) {
             if (c[i] % 2 == 1) {
