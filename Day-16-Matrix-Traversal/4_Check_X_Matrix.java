@@ -1,17 +1,14 @@
 class Solution {
-    public boolean checkXMatrix(int[][] matrix) {
-        int size = matrix.length;
+    public boolean checkXMatrix(int[][] grid) {
+        int n = grid.length;
 
-        for (int row = 0; row < size; row++) {
-            for (int col = 0; col < size; col++) {
-                if (row == col || col == size - row - 1) {
-                    if (matrix[row][col] == 0) {
-                        return false;
-                    }
-                } else {
-                    if (matrix[row][col] != 0) {
-                        return false;
-                    }
+        for(int i = 0; i < n ;i++){
+            for(int j = 0; j < n; j++){
+                if( i == j || j == n - i - 1){
+                    if(grid[i][j] == 0)return false;
+                }
+                else{
+                    if(grid[i][j] != 0)return false;
                 }
             }
         }
