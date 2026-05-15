@@ -5,7 +5,6 @@ class Solution {
         int n = mat[0].length;
         int top = 0;
         int bottom = m - 1;
-
         int left = 0;
         int right = n - 1;
 
