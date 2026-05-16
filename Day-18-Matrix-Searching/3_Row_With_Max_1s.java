@@ -1,6 +1,5 @@
 class Solution {
     public int rowWithMax1s(int[][] arr) {
-        // code here
         int m = arr.length;
         int n = arr[0].length;
         
