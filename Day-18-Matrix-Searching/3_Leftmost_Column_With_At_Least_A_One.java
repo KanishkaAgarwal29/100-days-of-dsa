@@ -1,20 +1,29 @@
-class Solution {
-    public int rowWithMax1s(int[][] arr) {
-        int m = arr.length;
-        int n = arr[0].length;
-        
+import java.util.* ;
+import java.io.*; 
+/*
+    You can access the dimension function and the get function by calling Runner.dimension()
+     and Runner.get(int x, int y) respectively.
+
+ */
+public class Solution {
+        public static int leftmostColumn() {
+        // Write your code here
+        ArrayList<Integer> size = Runner.dimensions();
         int i = 0;
-        int j = n - 1;
+        int j = size.get(1) - 1;
         
-        int maxRow = -1;
-        
-        while(i < m && j >= 0){
-            if(arr[i][j] == 0)i++;
-            else{
+        int ans = -1;
+
+        while (i < size.get(0) && j >= 0) {
+
+            if (Runner.get(i,j) == 1) {
+                ans = j;
                 j--;
-                maxRow = i;
+            } else {
+                i++;
             }
         }
-        return maxRow;
+
+        return ans;
     }
 }
