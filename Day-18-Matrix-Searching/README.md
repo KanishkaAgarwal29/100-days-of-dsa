@@ -3,7 +3,7 @@
 ## Problems Solved
 1. Search a 2D Matrix  
 2. Search a 2D Matrix II  
-3. Row with Max 1s  
+3. Leftmost Column With At Least A One 
 4. Search in Row-wise Sorted Matrix  
 
 ## Approach
