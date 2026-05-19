@@ -4,15 +4,15 @@
 1. Two Sum  
 2. Count Pairs with Given Sum  
 3. Find Pair with Given Difference  
-4. Intersection of Two Arrays  
+4. Pair with Target Sum  
 
 ## Approach
-- Applied hashing and frequency counting techniques  
-- Used efficient searching and lookup methods  
-- Focused on pair-finding and set-based problem patterns  
+- Practiced pair-searching and sum-based problem patterns  
+- Applied efficient lookup and comparison techniques  
+- Focused on understanding pair relationships and complement-based logic  
 
 ## Time Complexity
 - Most solutions run in O(n)
 
 ## Key Learning
-Hashing and frequency maps help optimize pair-based problems efficiently by reducing unnecessary comparisons and avoiding brute-force approaches.
+Many pair-based problems become efficient when complement relationships and optimized searching techniques are utilized properly.
