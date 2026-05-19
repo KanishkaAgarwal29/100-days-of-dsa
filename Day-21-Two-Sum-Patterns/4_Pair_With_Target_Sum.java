@@ -1,6 +1,6 @@
 class Solution {
     boolean twoSum(int nums[], int target) {
-        // code here
+        
         HashMap<Integer, Integer> mpp = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
