@@ -1,4 +1,4 @@
-# Day 18 – Two Sum Patterns
+# Day 21 – Two Sum Patterns
 
 ## Problems Solved
 1. Two Sum  
