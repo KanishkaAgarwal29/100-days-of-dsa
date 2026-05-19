@@ -1,4 +1,3 @@
-
 class Solution {
     public boolean findPair(int[] nums, int x) {
         // code here
