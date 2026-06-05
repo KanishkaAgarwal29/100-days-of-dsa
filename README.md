@@ -38,19 +38,27 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 - String Basics
 - String Manipulation
 - String Observation
+- String Mapping
+- Pattern Matching
+- Frequency-Based String Problems
+- Sliding Window (Fixed Size)
 - More coming soon...
 
 ---
 
 # 📈 Current Progress
 
-✅ Completed 29 Days of consistent DSA practice.
+✅ Day 38 / 100 Completed
+
+Current Topics:
+Arrays → Binary Search → Matrices → Intervals → Two Pointers → Strings → Hashing → Sliding Window
 
 Currently focusing on:
-- String traversal
-- Observation patterns
-- Problem-solving intuition
-- Preparing for Two Pointer patterns
+- Sliding Window
+- Variable Size Sliding Window (Next)
+- Advanced Hashing
+- String Patterns
+- Interview-Oriented Problem Solving
 
 ---
 
