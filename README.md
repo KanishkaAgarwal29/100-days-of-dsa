@@ -8,63 +8,69 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 
 # 📌 Goals
 
-- Build strong DSA fundamentals
-- Improve problem-solving ability
-- Prepare for coding interviews
-- Learn patterns instead of memorizing solutions
-- Maintain consistency through daily practice
+* Build strong DSA fundamentals
+* Improve problem-solving ability
+* Prepare for coding interviews
+* Learn patterns instead of memorizing solutions
+* Maintain consistency through daily practice
+* Write clean and optimized Java solutions
 
 ---
 
 # 📚 Topics Covered So Far
 
-- Arrays
-- Prefix Sum
-- Kadane’s Algorithm
-- Subarrays
-- Rearrangement Problems
-- Binary Search
-- Binary Search on Answers
-- Matrix Basics
-- Matrix Traversal
-- Matrix Search
-- Interval Problems
-- Pair / Two Sum Patterns
-- Prefix-Suffix Patterns
-- Hashing Basics
-- Frequency Maps
-- Set Problems
-- HashMap Applications
-- String Basics
-- String Manipulation
-- String Observation
-- String Mapping
-- Pattern Matching
-- Frequency-Based String Problems
-- Sliding Window (Fixed Size)
-- More coming soon...
+* Arrays
+* Prefix Sum
+* Kadane’s Algorithm
+* Subarrays
+* Rearrangement Problems
+* Binary Search
+* Binary Search on Answers
+* Matrix Basics
+* Matrix Traversal
+* Matrix Search
+* Interval Problems
+* Pair / Two Sum Patterns
+* Prefix-Suffix Patterns
+* Hashing Basics
+* Frequency Maps
+* Set Problems
+* HashMap Applications
+* String Basics
+* String Manipulation
+* String Observation
+* String Mapping
+* Pattern Matching
+* Frequency-Based String Problems
+* Fixed Size Sliding Window
+* Variable Size Sliding Window
+* Advanced Sliding Window
+* Stack Basics
+* Stack Applications
+* Monotonic Stack
 
 ---
 
 # 📈 Current Progress
 
-✅ Day 38 / 100 Completed
+✅ Day 47 / 100 Completed
 
-Current Topics:
-Arrays → Binary Search → Matrices → Intervals → Two Pointers → Strings → Hashing → Sliding Window
+Current Roadmap:
+
+Arrays → Binary Search → Matrices → Intervals → Two Pointers → Strings → Hashing → Sliding Window → Stack
 
 Currently focusing on:
-- Sliding Window
-- Variable Size Sliding Window (Next)
-- Advanced Hashing
-- String Patterns
-- Interview-Oriented Problem Solving
+
+* Monotonic Stack
+* Advanced Stack Patterns
+* Greedy + Stack
+* Interview-Oriented Problem Solving
 
 ---
 
-# 🛠️ Languages Used
+# 🛠️ Language Used
 
-- Java
+* Java
 
 ---
 
@@ -72,34 +78,57 @@ Currently focusing on:
 
 ```text
 Day-01-Array-Basics/
+
 Day-02-Array-Manipulation/
+
 Day-03-Array-Rotation/
-...
-Day-17-Matrix-Searching/
-Day-18-Two-Sum-Patterns/
-Day-19-Intro-To-Intervals/
-Day-20-Interval-Patterns/
-Day-21-Prefix-Suffix-Patterns/
-Day-22-Hashing-Basics/
-Day-23-Frequency-Patterns/
-Day-24-Set-Problems/
-Day-25-HashMap-Applications/
-Day-26-String-Basics/
-Day-27-String-Manipulation/
-Day-28-String-Manipulation/
-Day-29-String-Observation/
-...
+
+⋮
+
+Day-37-Sliding-Window-Basics/
+
+Day-38-Fixed-Sliding-Window/
+
+Day-39-Fixed-Sliding-Window-Continued/
+
+Day-40-Variable-Sliding-Window/
+
+Day-41-Variable-Sliding-Window-Continued/
+
+Day-42-Advanced-Variable-Sliding-Window/
+
+Day-43-Advanced-Fixed-Sliding-Window/
+
+Day-44-Advanced-Sliding-Window-And-Deque/
+
+Day-45-Stack-Basics/
+
+Day-46-Stack-Applications/
+
+Day-47-Monotonic-Stack/
+
+⋮
 ```
+
+Each folder contains:
+
+* README.md
+* 1_Problem_Name.java
+* 2_Problem_Name.java
+* 3_Problem_Name.java
+* 4_Problem_Name.java
 
 ---
 
 # 🧠 What I’m Learning
 
 This challenge is helping me:
-- Understand common DSA patterns
-- Improve optimization thinking
-- Write cleaner and more efficient solutions
-- Build consistency and problem-solving confidence
+
+* Understand common DSA patterns
+* Improve optimization thinking
+* Write cleaner and more efficient solutions
+* Build consistency and problem-solving confidence
+* Recognize patterns instead of memorizing solutions
 
 Instead of only focusing on solving problems, the goal is to understand *why* a particular approach works and where similar patterns can be applied.
 
@@ -107,10 +136,10 @@ Instead of only focusing on solving problems, the goal is to understand *why* a 
 
 # 🔥 Platforms Used
 
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+* Coding Ninjas
 
 ---
 
@@ -118,16 +147,18 @@ Instead of only focusing on solving problems, the goal is to understand *why* a 
 
 Consistency matters more than speed.
 
-The aim of this challenge is not just completing 100 days, but gradually becoming comfortable with problem-solving, recognizing patterns, and improving coding intuition every day.
+The aim of this challenge is not just completing 100 days, but gradually becoming comfortable with problem-solving, recognizing patterns, writing optimized solutions, and improving coding intuition every day.
 
 ---
 
 # 📬 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kanishka-agarwal-0ab674270/
-- LeetCode: https://leetcode.com/u/KanishkaAgarwal29/
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/kanishkaagarwal2905
+* LinkedIn: https://www.linkedin.com/in/kanishka-agarwal-0ab674270/
+* LeetCode: https://leetcode.com/u/KanishkaAgarwal29/
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/kanishkaagarwal2905
 
 ---
 
-Thanks for visiting the repository! 🚀
+Thanks for visiting the repository! ⭐
+
+If you find this repository helpful, consider giving it a **Star ⭐** to support the journey.
