@@ -9,7 +9,6 @@ class Node {
 } */
 
 class Solution {
-    
     public Node reverse(Node head){
         Node temp=head;
         Node prev=null;
