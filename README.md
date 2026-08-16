@@ -2,7 +2,23 @@
 
 A structured and consistent journey to strengthen **Data Structures & Algorithms** concepts for coding interviews, problem-solving, and overall programming skills.
 
-This repository contains my daily DSA practice solutions along with topic-wise progression, approaches, and important learning patterns. The goal is not just to solve problems, but to understand the intuition behind every algorithm and build strong pattern recognition skills.
+This repository contains my daily DSA practice solutions along with topic-wise progression, approaches, and important learning patterns.
+
+The goal was not just to solve problems, but to understand the intuition behind every algorithm, recognize patterns, analyze complexity, and build strong problem-solving skills.
+
+---
+
+# 🏆 Challenge Completed
+
+✅ **100 / 100 Days Completed**
+
+📅 **100 Days of Consistent DSA Practice**
+
+💻 **512 LeetCode Problems Solved**
+
+🏆 **100 Days Badge Earned**
+
+The 100 Days of DSA challenge is now complete, but the learning journey continues.
 
 ---
 
@@ -29,6 +45,7 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 * Kadane's Algorithm
 * Subarrays
 * Rearrangement Problems
+* Sorting & Array Patterns
 
 ### Binary Search
 
@@ -40,6 +57,7 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 * Matrix Basics
 * Matrix Traversal
 * Matrix Search
+* Grid-Based BFS & DFS
 
 ### Intervals
 
@@ -82,7 +100,7 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 * Expression Parsing
 * Stack + Frequency Problems
 
-### Greedy *(In Progress)*
+### Greedy
 
 * Jump Game
 * Jump Game II
@@ -90,30 +108,57 @@ This repository contains my daily DSA practice solutions along with topic-wise p
 * Lemonade Change
 * Can Place Flowers
 * Two City Scheduling
-
----
-
-# 📈 Current Progress
-
-✅ **Day 56 / 100 Completed**
-
-### Current Roadmap
-
-Arrays → Binary Search → Matrix → Intervals → Two Pointers → Strings → Hashing → Sliding Window → Stack → Greedy → Heap → Trees → BST → Binary Tree → Graphs → Backtracking → Dynamic Programming
-
-### Currently Focusing On
-
-* Greedy Algorithms
-* Interval-Based Greedy
-* Sorting + Greedy
 * Greedy Decision Making
-* Interview-Oriented Greedy Patterns
+* Sorting + Greedy
+
+### Linked List
+
+* Linked List Basics
+* Linked List Manipulation
+* Fast & Slow Pointers
+* Linked List Sorting
+* Merging Linked Lists
+* Random Pointer Problems
+
+### Trees
+
+* Binary Trees
+* Tree Traversals
+* Recursion
+* Binary Search Tree Concepts
+* Tree Construction
+
+### Graphs
+
+* Graph Representation
+* Connected Components
+* BFS
+* DFS
+* Grid BFS & DFS
+* Cycle Detection
+* Bipartite Graphs
+* Topological Sort
+* Directed Graphs
+* Shortest Path Basics
 
 ---
 
-# 🛠️ Language Used
+# 📈 Final Progress
 
-* Java
+### 100 Days Completed ✅
+
+**Day 1 → Day 100**
+
+Throughout the challenge, I gradually progressed from basic array problems to more advanced patterns involving linked lists, trees, graphs, BFS, DFS, cycle detection, bipartite graphs, and topological sorting.
+
+The focus throughout the journey remained on:
+
+* Understanding the pattern behind a problem
+* Deriving the approach before coding
+* Improving time and space complexity
+* Writing clean Java implementations
+* Avoiding unnecessary brute-force approaches
+* Building consistency through daily practice
 
 ---
 
@@ -132,52 +177,42 @@ Day-40-Variable-Sliding-Window/
 
 Day-41-Variable-Sliding-Window-II/
 
-Day-42-Advanced-Variable-Sliding-Window/
-
-Day-43-Advanced-Fixed-Sliding-Window/
-
-Day-44-Advanced-Sliding-Window/
-
-Day-45-Stack-Basics/
-
-Day-46-Stack-Applications/
-
-Day-47-Monotonic-Stack/
-
-Day-48-Advanced-Stack/
-
-Day-49-Advanced-Stack-II/
-
-Day-50-Monotonic-Stack-I/
-
-Day-51-Monotonic-Stack-II/
-
-Day-52-Monotonic-Stack-Applications/
-
-Day-53-Advanced-Monotonic-Stack/
-
-Day-54-Advanced-Monotonic-Stack-II/
+⋮
 
 Day-55-Greedy-I/
 
 Day-56-Greedy-II/
 
 ⋮
+
+Day-90-Graph-BFS/
+
+Day-91-Graph-DFS/
+
+⋮
+
+Day-98-Graph-Applications/
+
+Day-99-Array-Greedy/
+
+Day-100-Arithmetic-Progression-Pascals-Triangle/
 ```
 
 Each folder contains:
 
-* README.md
-* 1_Problem_Name.java
-* 2_Problem_Name.java
-* 3_Problem_Name.java
-* 4_Problem_Name.java
+* `README.md`
+* `1_Problem_Name.java`
+* `2_Problem_Name.java`
+* `3_Problem_Name.java`
+* `4_Problem_Name.java`
+
+The number of problems may vary depending on the day's practice.
 
 ---
 
-# 🧠 What I’m Learning
+# 🧠 What I Learned
 
-This challenge is helping me:
+This challenge helped me:
 
 * Understand common DSA patterns
 * Improve optimization thinking
@@ -185,8 +220,17 @@ This challenge is helping me:
 * Strengthen algorithmic intuition
 * Build consistency and problem-solving confidence
 * Recognize patterns instead of memorizing solutions
+* Analyze time and space complexity more effectively
 
-Instead of only focusing on solving problems, the goal is to understand **why** a particular approach works, **when** it should be applied, and **how** similar patterns can solve new problems.
+Instead of only focusing on getting an accepted solution, the goal was to understand:
+
+**Why does this approach work?**
+
+**When should this pattern be used?**
+
+**Can the solution be optimized?**
+
+**Can the same idea be applied to another problem?**
 
 ---
 
@@ -200,9 +244,22 @@ Instead of only focusing on solving problems, the goal is to understand **why** 
 
 # ⭐ Progress Philosophy
 
-**Consistency matters more than speed.**
+> **Consistency matters more than speed.**
 
-The aim of this challenge is not just to complete **100 Days of DSA**, but to gradually become comfortable with problem-solving, recognize patterns, write optimized solutions, and improve coding intuition every single day.
+The aim of this challenge was not simply to complete 100 days, but to develop a habit of solving problems consistently and gradually become more comfortable with unfamiliar problems.
+
+The biggest takeaway from these 100 days is that **problem-solving improves through consistent practice, reflection, and pattern recognition.**
+
+---
+
+# 🚀 What's Next?
+
+Completing the 100 Days of DSA challenge is a milestone, not the end of the journey.
+
+I will continue practicing DSA, strengthening weaker areas, solving new patterns, and preparing for coding interviews while working on real-world development and AI/ML projects.
+
+**100 Days Completed.
+The DSA journey continues. 🚀**
 
 ---
 
